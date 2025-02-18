@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4T/l7oJJKNWh8YKAgL8ULvPs1N5TNUx4TxyrGwns+8Q=",
+  "Source": "IPTE.ITS.API",
+  "BasePath": "_content/IPTE.ITS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

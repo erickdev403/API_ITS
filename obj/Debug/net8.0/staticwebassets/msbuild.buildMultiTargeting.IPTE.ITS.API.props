@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IPTE.ITS.API.props" />
+</Project>
